@@ -1,5 +1,7 @@
-function greet(name) {
+const greet = (name) => {
     console.log("Hello, " + name + "!");
 }
-greet("hagrid") ;
-greet("Luna") ;
+
+greet("Hour");
+greet("Huot");
+greet("Sal");
